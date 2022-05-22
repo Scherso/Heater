@@ -1,0 +1,19 @@
+[
+    {
+        "modid": "${id}",
+        "name": "${name}",
+        "description": "My air conditioning broke.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/Scherso/Heater",
+        "updateUrl": "",
+        "authorList": [
+            "Salmon"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": [
+        ]
+    }
+]
